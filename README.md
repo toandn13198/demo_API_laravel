@@ -21,13 +21,13 @@ demo API bằng Laravel v1.
     }
    ]
    =>send
-    -update nhanvien:PUT localhost:8080/nhanvien/{id}  postman->body->json dung dinh dang: 
+   - update nhanvien:PUT localhost:8080/nhanvien/{id}  postman->body->json dung dinh dang: 
      {
         "ten": "anh",
         "gioitinh": 1,
         "ngaysinh": "1993-10-02"
     }
     =>send
-    -delete nhanvien: DELETE localhost:8080/nhanvien/{id} =>send
+    - delete nhanvien: DELETE localhost:8080/nhanvien/{id} =>send
         
    
