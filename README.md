@@ -28,6 +28,6 @@ demo API bằng Laravel v1.
         "ngaysinh": "1993-10-02"
     }
     =>send
-    - delete nhanvien: DELETE localhost:8080/nhanvien/{id} =>send
+   - delete nhanvien: DELETE localhost:8080/nhanvien/{id} =>send
         
    
